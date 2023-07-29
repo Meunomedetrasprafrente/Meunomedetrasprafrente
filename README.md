@@ -17,8 +17,6 @@
   <a href="https://www.youtube.com/channel/UCmKZQbzUr2YDAL8UedTfkqA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kalel-viana-da-silva-4690791b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Meunomedetrasprafrente&bg_color=000000&color=b71ab2&line=fb00ff&point=a3389a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  ### Studying...
 <div style="display: inline_block"><div><br>
